@@ -1,8 +1,8 @@
 ---
-title: "Teaching assistant"
+title: "CSCI 3104: Algorithms"
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-teaching-1
-time: Fall 2021
+time: 2021
 venue: "University of Colorado, Boulder"
 ---
 
