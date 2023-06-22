@@ -4,8 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-2
 venue: "IIIT-Hyderabad"
-date: Spring 2015,2014
-location: "City, Country"
+date: 2014-00-00
 ---
 
 My responsibilities included taking recitation sessions, assisting students in lab sessions,holding office hours, grading
