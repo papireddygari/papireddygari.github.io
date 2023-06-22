@@ -2,7 +2,7 @@
 title: "CSCI 3104: Algorithms"
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-teaching-1
-time: 2021-10-10
+time: 2021-05-05
 venue: "University of Colorado, Boulder"
 ---
 
