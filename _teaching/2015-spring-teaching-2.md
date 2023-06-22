@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Data Structures"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+permalink: /teaching/2015-spring-teaching-2
+venue: "IIIT-Hyderabad"
+date: Spring 2015,2014
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+My responsibilities included taking recitation sessions, assisting students in lab sessions,holding office hours, grading
+homeworks and exams.
