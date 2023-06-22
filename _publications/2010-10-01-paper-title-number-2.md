@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "An Axiomatic Characterization of CFMMs and Equivalence to Prediction Markets"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2023-05-05
+venue: 'pre-print'
+paperurl: 'https://arxiv.org/abs/2302.00196'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+with [Bo Waggoner](https://www.bowaggoner.com/) and [Rafael Frongillo](https://home.cs.colorado.edu/~raf/)
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Arxiv](https://arxiv.org/abs/2302.00196)
