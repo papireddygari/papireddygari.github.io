@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-Click [here](files/Curriculum_Vitae.pdf) for CV
+Click [here](../files/Curriculum_Vitae.pdf) for CV
