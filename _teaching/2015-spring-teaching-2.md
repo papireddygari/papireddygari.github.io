@@ -1,6 +1,7 @@
 ---
 title: "Data Structures"
 collection: teaching
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-2
 venue: "IIIT-Hyderabad"
 date: Spring 2015,2014
