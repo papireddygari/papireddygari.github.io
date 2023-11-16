@@ -2,7 +2,7 @@
 title: "An Axiomatic Characterization of CFMMs and Equivalence to Prediction Markets"
 collection: publications
 permalink: /publication/2011-10-01-paper-title-number-3
-date: 2023-14-11
+date: 2023-11-14
 venue: 'pre-print'
 paperurl: 'https://arxiv.org/abs/2311.08725'
 ---
