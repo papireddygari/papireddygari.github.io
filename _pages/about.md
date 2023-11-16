@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an upcoming fourth year PhD candidate at CU Boulder, being advised by [Prof. Bo Waggoner](https://www.bowaggoner.com/). Prior to this, I completed my masters in Economics at [Delhi School of Economics](http://econdse.org/) and bachelor's in CS from [IIIT-Hyderabad](https://www.iiit.ac.in/).
+I am a fourth year PhD candidate at CU Boulder, being advised by [Prof. Bo Waggoner](https://www.bowaggoner.com/). Prior to this, I completed my masters in Economics at [Delhi School of Economics](http://econdse.org/) and bachelor's in CS from [IIIT-Hyderabad](https://www.iiit.ac.in/).
 
 
 News
