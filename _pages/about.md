@@ -12,9 +12,11 @@ I an upcoming fifth year PhD candidate at CU Boulder, being advised by [Prof. Bo
 
 News
 ------
-Checkout the [Gender Inclusive(GI) Workshop](https://sites.google.com/view/ecgiw/home) happenning at [EC 2024](https://ec23.sigecom.org/),New Haven that Im co-organizing.
+Our paper got accepted to Highlights Beyond EE 2024 !!
 
-I excited to join [Robust Incentives Group](https://github.com/ethereum/rig) at Ethereum Foundation for an internship.
+Checkout the [Gender Inclusive(GI) Workshop](https://sites.google.com/view/ecgiw/home) happenning at [EC 2024](https://ec23.sigecom.org/),New Haven that Im co-organizing. Please consider aplying for a talk/poster or just stop by.
+
+I excited to join [Robust Incentives Group](https://github.com/ethereum/rig) at Ethereum Foundation for an internship Summer 2024.
 
 I co-founded and co-organized the Inaugural [Gender Inclusive(GI) Workshop](https://sites.google.com/view/ecgiw23) happenning at [EC 2023](https://ec23.sigecom.org/),London.
 
