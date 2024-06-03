@@ -12,7 +12,7 @@ I an upcoming fifth year PhD candidate at CU Boulder, being advised by [Prof. Bo
 
 News
 ------
-Our paper got accepted to Highlights Beyond EE 2024 !!
+Our paper got accepted to Highlights Beyond EC 2024 !!
 
 Checkout the [Gender Inclusive(GI) Workshop](https://sites.google.com/view/ecgiw/home) happenning at [EC 2024](https://ec23.sigecom.org/),New Haven that Im co-organizing. Please consider aplying for a talk/poster or just stop by.
 
