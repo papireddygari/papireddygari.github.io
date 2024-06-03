@@ -16,8 +16,8 @@ Our paper got accepted to Highlights Beyond EC 2024 !!
 
 Checkout the [Gender Inclusive(GI) Workshop](https://sites.google.com/view/ecgiw/home) happenning at [EC 2024](https://ec23.sigecom.org/),New Haven that Im co-organizing. Please consider aplying for a talk/poster or just stop by.
 
-I excited to join [Robust Incentives Group](https://github.com/ethereum/rig) at Ethereum Foundation for an internship Summer 2024.
+I am excited to join [Robust Incentives Group](https://github.com/ethereum/rig) at Ethereum Foundation for an internship starting Summer 2024.
 
-I co-founded and co-organized the Inaugural [Gender Inclusive(GI) Workshop](https://sites.google.com/view/ecgiw23) happenning at [EC 2023](https://ec23.sigecom.org/),London.
+Co-founded and co-organized the Inaugural [Gender Inclusive(GI) Workshop](https://sites.google.com/view/ecgiw23) happenning at [EC 2023](https://ec23.sigecom.org/),London.
 
 I had a wonderful Summer 2023 working with [Prof. David Pennock](https://www.cs.rutgers.edu/people/professors/details/david-pennock) at DIMACS, Rutgers University.
