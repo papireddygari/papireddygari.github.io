@@ -15,10 +15,27 @@ author_profile: true
 
 
 
-<div class="img__wrap">
-  <img class="img__img" src="../files/ellie.jpg" />
-  <p class="img__description">This image looks super neat.</p>
-</div>
+a {
+  position: relative
+}
+
+a span {
+  display: none;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 10px;
+  background: rgba(255,255,255,.8);
+}
+
+a:hover span {
+  display: block
+}
+
+	<a>
+  <img src="http://placehold.it/300x200">
+  <span>caption</span>
+</a>
 	
 	
 	Along with my husband, I have a sweet old kitty named Ellie. I have been spending insane amounts of time with her and am always up for some cat chatter.<br>
