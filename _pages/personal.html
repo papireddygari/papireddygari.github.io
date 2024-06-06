@@ -13,46 +13,44 @@ author_profile: true
 </head>
 <body>
 
-<script language="javascript" type="text/javascript">
+/* quick reset */
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
 
-    // sets the caption for the clicked img
-    function caption(img){
-       // finds the element with an id="caption"
-       var ctrl = document.getElementById("caption");
+/* relevant styles */
+.img__wrap {
+  position: relative;
+  height: 200px;
+  width: 257px;
+}
 
-       // sets the text of the element = the alt property of the img
-       alert(img.alt);
-       ctrl.innerText = img.alt;
+.img__description {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(29, 106, 154, 0.72);
+  color: #fff;
+  visibility: hidden;
+  opacity: 0;
 
-       // sets the css display property = block (shows the element)
-       ctrl.style.display = "block";
+  /* transition effect. not necessary */
+  transition: opacity .2s, visibility .2s;
+}
 
-       // hides the defaultCaption element
-       document.getElementById("defaultCaption").style.display = "none";
-    }
+.img__wrap:hover .img__description {
+  visibility: visible;
+  opacity: 1;
+}
 
-    // shows the defaultCaption and hides the caption div
-    function clearCaption() {
-       document.getElementById("defaultCaption").style.display = "block";
-       document.getElementById("caption").style.display = "none";
-    }
- </script>
-
-<ul class="logos">
-    <!--
-       alt : an alternative text description for an image
-       onmouseover : event handler that fires as the mouse moves over image
-       onmouseout : event handler that fires as the mouse moves off the image
-    -->
-    <li><img  src="../files/ellie.jpg" class="image-1" alt="caption 1" onmouseover="caption(this)" onmouseout="clearCaption()"/></li>
-    <li><img  src="../files/ellie.jpg" class="image-2" alt="caption 2" onmouseover="caption(this)" onmouseout="clearCaption()"/></li>
-</ul>
-
-<div id="caption" style="display:none"></div>
-<div id="defaultCaption">default caption text</div>
-	
-	
-	
+<div class="img__wrap">
+  <img class="img__img" src="../files/ellie.jpg" />
+  <p class="img__description">This image looks super neat.</p>
+</div>
 	
 	
 	Along with my husband, I have a sweet old kitty named Ellie. I have been spending insane amounts of time with her and am always up for some cat chatter.<br>
