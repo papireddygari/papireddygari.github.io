@@ -1,15 +1,11 @@
-a {
-  position: relative;
+div {
+  display: none;
+  border: 1px solid #000;
+  height: 30px;
+  width: 290px;
+  margin-left: 10px;
 }
 
-a:hover:after {
-  content: attr(title);
-  position: absolute;
-  top: 100%;
-  left: 0;
-  white-space: nowrap;
-  z-index: 999;
-  background: #ccc;
-  color: black;
-  padding: 5px;
+a:hover+div {
+  display: block;
 }
