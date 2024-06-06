@@ -16,7 +16,49 @@ img {
 </head>
 <body>
 
-Along with my husband, I have a sweet old kitty named Ellie. I have been spending insane amounts of time with her and am always up for some cat chatter.<br>
+<script language="javascript" type="text/javascript">
+
+    // sets the caption for the clicked img
+    function caption(img){
+       // finds the element with an id="caption"
+       var ctrl = document.getElementById("caption");
+
+       // sets the text of the element = the alt property of the img
+       alert(img.alt);
+       ctrl.innerText = img.alt;
+
+       // sets the css display property = block (shows the element)
+       ctrl.style.display = "block";
+
+       // hides the defaultCaption element
+       document.getElementById("defaultCaption").style.display = "none";
+    }
+
+    // shows the defaultCaption and hides the caption div
+    function clearCaption() {
+       document.getElementById("defaultCaption").style.display = "block";
+       document.getElementById("caption").style.display = "none";
+    }
+ </script>
+
+<ul class="logos">
+    <!--
+       alt : an alternative text description for an image
+       onmouseover : event handler that fires as the mouse moves over image
+       onmouseout : event handler that fires as the mouse moves off the image
+    -->
+    <li><img  src="../files/ellie.jpg" class="image-1" alt="caption 1" onmouseover="caption(this)" onmouseout="clearCaption()"/></li>
+    <li><img  src="../files/ellie.jpg" class="image-2" alt="caption 2" onmouseover="caption(this)" onmouseout="clearCaption()"/></li>
+</ul>
+
+<div id="caption" style="display:none"></div>
+<div id="defaultCaption">default caption text</div>
+	
+	
+	
+	
+	
+	Along with my husband, I have a sweet old kitty named Ellie. I have been spending insane amounts of time with her and am always up for some cat chatter.<br>
 
 <img src="../files/ellie.jpg" alt="Ellies picture" style="width:150px;height:auto;"/> <br>
 
