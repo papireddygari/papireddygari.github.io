@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I an upcoming fifth year PhD candidate at CU Boulder, and am fortunate to be advised by [Prof. Bo Waggoner](https://www.bowaggoner.com/). I am interested in most algorithmic economics topics and my research lately has been on incentives and designing Automated Market Makers(AMMs).
+I an upcoming fifth year PhD candidate at CU Boulder, and am fortunate to be advised by [Prof. Bo Waggoner](https://www.bowaggoner.com/). I am interested in most algorithmic economics topics and my research lately has been on incentives, prediction markets and designing Automated Market Makers(AMMs).
 
 Prior to my PhD, I completed my masters in Economics at [Delhi School of Economics](http://econdse.org/) and bachelor's in CS from [IIIT-Hyderabad](https://www.iiit.ac.in/).
 
