@@ -435,12 +435,7 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-will-be-spending-my-summer-as-a-research-intern-at-ethereum-foundation",
+      },{id: "news-i-will-be-spending-my-summer-as-a-research-intern-at-ethereum-foundation",
           title: 'I will be spending my Summer as a research intern at Ethereum Foundation...',
           description: "",
           section: "News",},{id: "news-visiting-and-giving-a-talk-at-iit-bombay",
