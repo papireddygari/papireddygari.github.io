@@ -1,0 +1,34 @@
+---
+layout: archive
+title: "Personal"
+permalink: /personal/
+author_profile: true
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img {
+  width: 100%;
+}
+</style>
+</head>
+<body>
+
+Along with my partner, I have a sweet old kitty named Ellie. I have been spending insane amounts of time with her and am always up for some cat chatter.
+
+<img src="ellie.jpg" alt="Ellies picture"
+
+I typically focus intently on a hobby for some time period before I move on to the next. Here are some on my obsessions in chronological order, 
+
+<ol>
+	<li> Rock climbing
+	<li> Pottery
+	<li> Hiking
+	<li> Bird photography
+
+</ol>
+
+</body>
+</html>
