@@ -7,7 +7,7 @@ subtitle: Postdoctoral Research Fellow.
 profile:
   align: left
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>245 Beacon Street 528L</p>
     <p>Chestnut Hill, MA 02467</p>
@@ -26,4 +26,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi
+I am researcher who works predominantly in theoretical [EconCS](https://www.bowaggoner.com/whatiseconcs.html). I am currently a Postdoctoral researcher in CS department at Boston College, being advised by [Prof. Jessie Finocchiaro](https://www.jessiefin.com/) and [Prof. Francisco J. Marmolejo-Cossío](https://www.fmarmolejo.com/). Prior to this, I obtained my PhD in Computer Science from University of Colorado, Boulder under the supervision of [Prof. Bo Waggoner](https://www.bowaggoner.com/). I hold a M.A. in Economics from [Delhi School of Economics](http://econdse.org/) and a B.Tech from [IIIT, Hyderabad](https://www.iiit.ac.in/).
