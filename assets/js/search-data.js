@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
-        },{id: "nav-cv",
+  },{id: "nav-cv",
           title: "cv",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
@@ -37,21 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "news-i-will-be-spending-my-summer-as-a-research-intern-at-ethereum-foundation",
+        },{id: "news-i-will-be-spending-my-summer-as-a-research-intern-at-ethereum-foundation",
           title: 'I will be spending my Summer as a research intern at Ethereum Foundation...',
           description: "",
           section: "News",},{id: "news-visiting-and-giving-a-talk-at-iit-bombay",
