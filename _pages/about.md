@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> She/her pronouns </p>
-    <p>Office - 245 Beacon Street 528L</p>
+    <p>Office - 245 Beacon Street</p>
     <p>Chestnut Hill, MA 02467</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -31,4 +31,4 @@ I am researcher who works predominantly in the field of theoretical [EconCS](htt
 
 ** Research interests **
 
-Here is my detailed [CV](CV_Maneesha.pdf)
+Here is my detailed [CV](assets/CV_Maneesha.pdf)
