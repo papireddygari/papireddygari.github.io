@@ -26,4 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am researcher who works predominantly in theoretical [EconCS](https://www.bowaggoner.com/whatiseconcs.html). I am currently a Postdoctoral researcher in CS department at Boston College, being advised by [Prof. Jessie Finocchiaro](https://www.jessiefin.com/) and [Prof. Francisco J. Marmolejo-Cossío](https://www.fmarmolejo.com/). Prior to this, I obtained my PhD in Computer Science from University of Colorado, Boulder under the supervision of [Prof. Bo Waggoner](https://www.bowaggoner.com/). I hold a M.A. in Economics from [Delhi School of Economics](http://econdse.org/) and a B.Tech from [IIIT, Hyderabad](https://www.iiit.ac.in/).
+I am researcher who works predominantly in the field of theoretical [EconCS](https://www.bowaggoner.com/whatiseconcs.html). I am currently a Postdoctoral researcher in CS department at Boston College, being advised by [Prof. Jessie Finocchiaro](https://www.jessiefin.com/) and [Prof. Francisco J. Marmolejo-Cossío](https://www.fmarmolejo.com/). Prior to this, I obtained my PhD in Computer Science from University of Colorado, Boulder under the supervision of [Prof. Bo Waggoner](https://www.bowaggoner.com/). I hold a M.A. in Economics from [Delhi School of Economics](http://econdse.org/) and a B.Tech from [IIIT, Hyderabad](https://www.iiit.ac.in/).
+
+I use she/her pronouns.
+
+Here is my detailed [CV](CV_Maneesha.pdf)
