@@ -440,16 +440,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-will-be-spending-my-summer-as-a-research-intern-at-ethereum-foundation",
+          title: 'I will be spending my Summer as a research intern at Ethereum Foundation...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-visiting-and-giving-a-talk-at-iit-bombay",
+          title: 'Visiting and giving a talk at IIT-Bombay',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-successfully-defended-my-phd-thesis-raising-hands",
+          title: 'Successfully defended my PhD thesis! :raising_hands:',
+          description: "",
+          section: "News",},{id: "news-i-joined-as-a-postdoc-at-boston-college-advised-by-jessie-and-francisco-come-say-hi-if-i-know-you-and-you-are-in-boston",
+          title: 'I joined as a postdoc at Boston College, advised by Jessie and Francisco....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
