@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Materials for courses you taught. Replace this text with your description.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{id: "news-i-will-be-spending-my-summer-as-a-research-intern-at-ethereum-foundation",
           title: 'I will be spending my Summer as a research intern at Ethereum Foundation...',
           description: "",
