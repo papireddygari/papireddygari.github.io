@@ -82,17 +82,22 @@
 				"link": "https://dl.acm.org/doi/abs/10.1145/3490486.3538261"
 			}
 		],
-  "skills": [
+  
+"languages": [
     {
-      "keywords": [
-        "Algorithmic Economics",
-			"Automated Market Makers",
-			"Wagering Mechanism",
-			"Blockchain Economics",
-			"Decentralized Finance",
-			"Online Learning Algorithms",
-			"Information Elicitation and Aggregation"
-      ]
+      "language": "Telugu",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+	  {
+      "language": "Hindi",
+      "fluency": "Fluent",
+      "icon": ""
     }
   ]
 }
