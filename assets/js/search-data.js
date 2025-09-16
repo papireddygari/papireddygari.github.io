@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-courses",
           title: "Courses",
-          description: "experience teaching/TA-ing courses.",
+          description: "experience teaching or TA-ing courses.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
