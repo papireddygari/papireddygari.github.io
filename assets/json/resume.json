@@ -1,32 +1,30 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Maneesha Papireddygari",
+    "label": "Researcher",
     "image": "",
-    "email": "albert@einstein.de"
+    "email": "papiredd@bc.edu"
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Computer Science Deptartment, Boston College",
+      "position": "Postdoctoral Research fellow",
+      "url": "https://www.bc.edu/bc-web/schools/morrissey/departments/computer-science.html",
+      "startDate": "2025-09-01",
+      "endDate": "ongoing",
+      "summary": "Working on exciting research problems in EconCS",
+      "highlights": ["TBD"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Colorado, Boulder",
+      "location": "Boulder, Colorado",
+      "url": "https://www.colorado.edu/cs/",
+      "area": "Theoretical Computer Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2020-08-25",
+      "endDate": "2025-08-20"
     }
   ],
   "publications": [
@@ -54,7 +52,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Telugu",
       "fluency": "Native speaker",
       "icon": ""
     },
