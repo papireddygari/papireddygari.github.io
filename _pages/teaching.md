@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Courses
-description: experience teaching/TA-ing courses.
+description: experience teaching or TA-ing courses.
 nav: true
 nav_order: 6
 ---
