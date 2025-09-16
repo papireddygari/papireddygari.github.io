@@ -94,22 +94,5 @@
 			"Information Elicitation and Aggregation"
       ]
     }
-  ],
-  "languages": [
-    {
-      "language": "Telugu",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    },
-	  {
-      "language": "Hindi",
-      "fluency": "Fluent",
-      "icon": ""
-    }
   ]
 }
