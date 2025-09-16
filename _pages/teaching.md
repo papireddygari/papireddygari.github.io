@@ -1,12 +1,26 @@
+
 ---
 layout: page
+title: Courses
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
 ---
+# Courses
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Current Courses (Fall 2025)
+None
 
-Organize your courses by years, topics, or universities, however you like!
+## Past Courses
+
+The below mentioned experience is limited to Teaching Assistantship. 
+
+### **CSCI 5454: Design and Analysis of Algorithms (graduate level) - Fall 2023**
+My responsibilities included taking office hours to clear conceptual understandings, preparing exam questions and
+overseeing and guiding graders.
+
+
+### **CSCI 3104: Algorithms**
+My responsibilities included taking recitation sessions, preparing homework problems and recitation worksheet,
+holding office hours and grading exams.
+
