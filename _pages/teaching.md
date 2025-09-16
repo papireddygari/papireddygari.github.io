@@ -6,11 +6,11 @@ nav: true
 nav_order: 6
 ---
 
-## Current Courses
+### Current Courses
 
 None
 
-## Past Courses
+### Past Courses
 
 The following experience is limited to Teaching Assistantship.
 
