@@ -17,12 +17,12 @@ None
 
 The below mentioned experience is limited to Teaching Assistantship. 
 
-### **[CSCI 5454: Design and Analysis of Algorithms (graduate level)](https://www.bowaggoner.com/courses/2023/csci5454/) - Fall 2023**
+### [CSCI 5454: Design and Analysis of Algorithms (graduate level)](https://www.bowaggoner.com/courses/2023/csci5454/) - Fall 2023
 
 My responsibilities included taking office hours to clear conceptual understandings, preparing exam questions and
 overseeing and guiding graders.
 
-### **CSCI 3104: Algorithms - Fall 2021**
+### CSCI 3104: Algorithms - Fall 2021
 
 My responsibilities included taking recitation sessions, preparing homework problems and recitation worksheet,
 holding office hours and grading exams.
