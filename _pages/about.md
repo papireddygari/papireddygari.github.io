@@ -29,7 +29,7 @@ latest_posts:
 
 I am researcher who works predominantly in the field of theoretical [EconCS](https://www.bowaggoner.com/whatiseconcs.html). I am currently a Postdoctoral researcher in CS department at Boston College, being advised by [Prof. Jessie Finocchiaro](https://www.jessiefin.com/) and [Prof. Francisco J. Marmolejo-Cossío](https://www.fmarmolejo.com/). Prior to this, I obtained my PhD in Computer Science from University of Colorado, Boulder under the supervision of [Prof. Bo Waggoner](https://www.bowaggoner.com/). I hold a M.A. in Economics from [Delhi School of Economics](http://econdse.org/) and a B.Tech from [IIIT, Hyderabad](https://www.iiit.ac.in/).
 
-**Research interests**
+Research interests :
 
 While interested in several topics in theoretical [EconCS](https://www.bowaggoner.com/whatiseconcs.html), my research focuses on 1. eliciting and quantifying value of information and 2. Incentive design in blockchains. 
 
