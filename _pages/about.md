@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> She/her pronouns </p>
-    <p>Office - 245 Beacon Street 528L</p>
+    <p>Office - 245 Beacon Street</p>
     <p>Chestnut Hill, MA 02467</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -33,8 +33,8 @@ Research interests :
 
 While interested in several topics in theoretical [EconCS](https://www.bowaggoner.com/whatiseconcs.html), my research focuses on 1. eliciting and quantifying value of information and 2. Incentive design in blockchains. 
 
-1) The information I particularly focus on is an individual's private beliefs about a future event. My research focuses on designing the right payments to incentivize truthful revelation of individual's beliefs. Occasionally these tools might be [contracts](https://en.wikipedia.org/wiki/Contract_theory), but more often are [*Scoring Rules*](https://en.wikipedia.org/wiki/Scoring_rule). These tools give access to different types of elicitation mechanisms: Is the prediction one-shot or does it need to run as a continual market to incorporate potential information revealed over time ([Prediction Markets](https://en.wikipedia.org/wiki/Prediction_market))? Can the market maker bear the potential loss or does the mechanism need to be budget-balanced (wagering mechanisms)? Most of these mechanisms have several interesting research questions in them.
+1) The information I particularly focus on is an individual's private beliefs about a future event. My research focuses on designing the right payments to incentivize truthful revelation of individual's beliefs. Occasionally these tools might be [contracts](https://en.wikipedia.org/wiki/Contract_theory), but more often are [Scoring Rules](https://en.wikipedia.org/wiki/Scoring_rule). These tools give access to different types of elicitation mechanisms: Is the prediction one-shot or does it need to run as a continual market to incorporate potential information revealed over time ([Prediction Markets](https://en.wikipedia.org/wiki/Prediction_market))? Can the market maker bear the potential loss or does the mechanism need to be budget-balanced (wagering mechanisms)? Most of these mechanisms have several interesting research questions in them.
 
 2) I have been recently interested in various incentive problems in blockchain technologies. My work provides insights into Liquidity Provisioning that Decentralized Finance deploys and also makes some of the Decentralized Finance algorithms computationally practical.
 
-My work also establishes a cool connections between these two fields (see Frongillo et. al. 2024).
+My work also establishes a cool connection between these two fields (see Frongillo et. al. 2024).
