@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> She/her pronouns </p>
-    <p>Office - 245 Beacon Street</p>
+    <p>Office - 245 Beacon Street 524</p>
     <p>Chestnut Hill, MA 02467</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
